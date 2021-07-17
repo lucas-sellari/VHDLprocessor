@@ -1,0 +1,1 @@
+Descrição VHDL de um projeto de um processador monociclo com instruções de 32 bits baseado na arquitetura ARM-v8.
